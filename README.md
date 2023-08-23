@@ -1,5 +1,5 @@
 <h1>Curso "Ruby Developer" da <a href="https://www.dio.me/curso-ruby-on-rails">DIO.</a></h1>
-<img src="https://github.com/JMBeling/curso_Ruby_dio/assets/95389587/c2c79a31-83e1-4263-b91a-180920c7ed1a">
+ <img  align="right" width="250px" style="margin-top:-20px" src="https://github.com/JMBeling/curso_Ruby_dio/assets/95389587/c2c79a31-83e1-4263-b91a-180920c7ed1a"> 
 
 <div>
  <h3>✅Tecnologias Utilizadas no Projeto:</h3>
