@@ -13,7 +13,7 @@
 
 <div>
   <h3>🧑‍💻Professor Responsável:</h3>
-
+ <a href="https://www.linkedin.com/in/tenille-martins-6a0139191/?originalSubdomain=br">Tenille Martins</a>
  </div>
  
  <div>
