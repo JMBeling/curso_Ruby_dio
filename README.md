@@ -18,5 +18,5 @@
  
  <div>
  <h3>🎓Certificado de Conclusão de Curso:</h3>
- <a href="">CERTIFICADO</a>
+ 
  </div>
