@@ -5,10 +5,10 @@
 # 3 - multiplicação
 # 4 - divisão
 # 0 - sair
+# opção inválida
 # digite primeiro numero
 #digite segundo numero
 
-#   ruby criando_calculadora/desafio_projeto.rb
 resultado = ''
 loop do
   puts resultado
