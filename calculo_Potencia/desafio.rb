@@ -14,8 +14,3 @@ end
 
 puts "\nSeus Resultado: "
 puts potencia
-
-
-
-
-#   ruby calculo_Potencia/desafio.rb
