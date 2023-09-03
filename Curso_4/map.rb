@@ -9,7 +9,7 @@ numeros = [2,3,4,5]
 
   puts "\n Novo Array"
   puts " #{novo_numeros}"
-
+# .map! modifica o original
   numeros.map! do |x|
     x * 5
   end
